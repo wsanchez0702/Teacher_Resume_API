@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+
+  
+  #resume{
+    background-color: black;
+    color: white;
+    width: 100px;
+  }
+  
+  #body{
+    color:white;
+  }
+  
+  .page-footer{
+    background-color:black;
+  }
+ 
+#button {
+    background-color: black
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    min-height: 100vh;
+    flex-direction:column;
+}
+
+
